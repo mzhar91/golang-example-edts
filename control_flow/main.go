@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	// ifElse()
+	defer ifElse()
 	switchCase()
 }
 
